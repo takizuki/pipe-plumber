@@ -1,0 +1,6 @@
+{
+  "name": "Pipe Plumber Arcade",
+  "description": "A classic arcade-style platformer inspired by Mario Bros. Jump under platforms to flip enemies and clear the pipes!",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
